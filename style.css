@@ -21,6 +21,9 @@ body {
 .margin {
   margin-top: 33px;
 }
+.margin2 {
+  margin-top: 40px;
+}
 
 .headers, .headers_h2 {
   font-weight: 700;
