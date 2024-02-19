@@ -67,6 +67,7 @@ a:hover {
   list-style: none;
   padding-left: 0;
   text-align: center;
+  margin-right: -23px;
 }
 
 .list_inline li {
